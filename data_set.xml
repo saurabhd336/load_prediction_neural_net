@@ -1,0 +1,334 @@
+<DataSet>
+    <DataFile>
+        <FileType>dat</FileType>
+        <FirstCell></FirstCell>
+        <LastCell></LastCell>
+        <SheetNumber>1</SheetNumber>
+        <LagsNumber>0</LagsNumber>
+        <StepsAhead>0</StepsAhead>
+        <ColumnsName>0</ColumnsName>
+        <RowsLabel>0</RowsLabel>
+        <Separator>Space</Separator>
+        <MissingValuesLabel>?</MissingValuesLabel>
+        <DataFileName>load_data.dat</DataFileName>
+    </DataFile>
+    <Variables>
+        <VariablesNumber>51</VariablesNumber>
+        <Item Index="1">
+            <Name>year</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="2">
+            <Name>month</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="3">
+            <Name>day</Name>
+            <Units></Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="4">
+            <Name>temp_hour1</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="5">
+            <Name>temp_hour2</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="6">
+            <Name>temp_hour3</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="7">
+            <Name>temp_hour4</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="8">
+            <Name>temp_hour5</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="9">
+            <Name>temp_hour6</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="10">
+            <Name>temp_hour7</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="11">
+            <Name>temp_hour8</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="12">
+            <Name>temp_hour9</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="13">
+            <Name>temp_hour10</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="14">
+            <Name>temp_hour11</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="15">
+            <Name>temp_hour12</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="16">
+            <Name>temp_hour13</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="17">
+            <Name>temp_hour14</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="18">
+            <Name>temp_hour15</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="19">
+            <Name>temp_hour16</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="20">
+            <Name>temp_hour17</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="21">
+            <Name>temp_hour18</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="22">
+            <Name>temp_hour19</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="23">
+            <Name>temp_hour20</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="24">
+            <Name>temp_hour21</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="25">
+            <Name>temp_hour22</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="26">
+            <Name>temp_hour23</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="27">
+            <Name>temp_hour24</Name>
+            <Units>degrees</Units>
+            <Description></Description>
+            <Use>Input</Use>
+        </Item>
+        <Item Index="28">
+            <Name>load_hour1</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="29">
+            <Name>load_hour2</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="30">
+            <Name>load_hour3</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="31">
+            <Name>load_hour4</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="32">
+            <Name>load_hour5</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="33">
+            <Name>load_hour6</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="34">
+            <Name>load_hour7</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="35">
+            <Name>load_hour8</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="36">
+            <Name>load_hour9</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="37">
+            <Name>load_hour10</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="38">
+            <Name>load_hour11</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="39">
+            <Name>load_hour12</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="40">
+            <Name>load_hour13</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="41">
+            <Name>load_hour14</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="42">
+            <Name>load_hour15</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="43">
+            <Name>load_hour16</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="44">
+            <Name>load_hour17</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="45">
+            <Name>load_hour18</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="46">
+            <Name>load_hour19</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="47">
+            <Name>load_hour20</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="48">
+            <Name>load_hour21</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="49">
+            <Name>load_hour22</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="50">
+            <Name>load_hour23</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+        <Item Index="51">
+            <Name>load_hour24</Name>
+            <Units>Watts</Units>
+            <Description></Description>
+            <Use>Target</Use>
+        </Item>
+    </Variables>
+    <Instances>
+        <InstancesNumber>1461</InstancesNumber>
+        <ItemsUses>1 2 2 0 0 2 2 0 1 0 0 2 1 0 0 0 2 0 0 0 0 0 0 0 0 2 1 0 1 0 2 2 2 1 0 1 0 2 1 0 0 1 0 0 1 0 0 0 1 0 0 0 0 0 2 0 0 2 0 1 0 0 2 0 0 0 1 0 0 0 0 2 2 2 2 0 2 2 1 0 1 0 0 1 0 1 0 0 0 1 0 1 0 0 2 0 2 2 0 1 2 0 1 0 1 0 0 0 0 2 0 2 1 2 0 0 0 0 0 0 1 0 2 1 1 2 0 0 2 0 0 0 1 0 0 1 0 0 0 2 1 2 0 0 2 0 1 0 0 0 0 0 2 1 1 0 0 1 0 0 0 2 0 0 0 1 0 0 0 0 0 2 0 0 0 0 2 0 0 1 1 0 0 2 1 0 1 1 0 1 0 2 1 0 1 2 1 1 2 1 0 0 0 2 1 0 0 2 0 1 2 0 0 0 0 1 1 0 0 0 1 2 2 1 1 0 2 1 0 1 2 0 1 1 0 0 0 0 2 1 0 0 0 0 2 1 2 0 0 0 0 2 1 0 0 0 0 1 1 0 2 2 0 0 0 0 0 0 0 0 0 0 0 0 2 2 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 1 0 1 0 0 0 0 2 1 1 1 0 0 2 0 1 0 0 1 1 1 1 0 0 0 0 2 0 0 2 1 0 0 0 2 2 2 2 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 2 0 2 0 0 0 0 1 2 0 0 2 0 0 0 2 1 0 1 2 0 0 0 0 0 2 0 0 0 0 1 0 0 2 0 1 0 0 1 0 0 2 0 1 1 2 2 0 2 1 0 2 1 0 2 2 0 0 2 1 2 1 1 0 1 0 0 0 0 2 0 1 0 0 0 0 0 1 0 0 0 0 1 0 0 1 2 0 2 0 0 2 1 1 0 2 0 1 1 0 2 0 0 0 1 0 2 0 0 1 0 0 1 0 0 0 1 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0 0 1 2 0 1 0 0 0 0 2 0 1 0 2 1 2 1 0 2 2 0 2 1 0 0 2 0 0 2 1 0 2 0 0 0 0 0 1 0 1 1 0 0 0 0 0 0 0 1 1 0 1 0 1 0 2 2 0 0 0 1 2 1 1 1 0 0 2 0 2 0 0 0 0 0 0 2 0 0 2 0 0 1 2 0 0 2 0 0 0 1 0 0 1 0 0 0 1 0 1 1 2 0 0 1 1 2 2 2 0 0 0 0 0 0 0 1 0 0 0 2 2 0 0 2 2 0 2 0 0 0 0 0 0 2 0 0 1 0 2 2 0 0 0 0 1 0 0 2 0 0 1 0 0 0 1 1 0 1 0 1 0 0 1 0 0 0 0 2 0 2 2 0 0 0 0 0 2 0 0 2 0 0 0 1 0 0 1 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 0 0 0 0 0 2 0 2 0 0 1 0 0 2 0 0 2 1 0 1 1 0 0 2 1 0 0 0 0 2 2 2 0 1 1 1 1 0 1 0 0 1 0 2 0 2 0 1 0 2 0 0 2 0 1 2 0 0 1 0 0 0 2 2 2 0 2 0 0 0 0 0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 2 1 1 1 0 0 0 1 0 0 0 0 1 0 1 0 2 0 0 0 0 0 1 0 0 2 2 2 0 0 2 2 0 0 0 1 0 0 2 0 1 0 0 1 0 1 0 0 1 0 2 0 0 0 0 0 1 0 0 2 2 0 0 2 0 0 2 0 0 1 0 2 0 0 2 2 0 0 0 2 0 1 2 0 2 1 2 2 0 1 1 2 0 1 0 2 0 2 0 1 2 0 0 0 0 0 0 1 1 0 0 2 0 0 0 0 0 1 1 0 0 1 2 0 0 0 0 0 0 2 2 0 2 0 1 0 2 0 0 2 2 0 0 0 2 0 0 2 2 1 0 0 1 1 0 2 0 0 2 1 0 1 1 1 2 0 0 0 0 0 2 1 0 0 0 0 2 0 1 0 2 0 0 0 2 0 0 0 0 0 0 0 2 1 0 0 0 0 0 0 0 1 1 1 2 0 0 0 2 0 0 0 2 0 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0 1 0 0 2 1 0 0 1 2 0 2 2 1 1 1 0 0 0 1 2 0 1 2 0 0 0 0 2 0 0 0 2 0 0 0 0 1 1 0 2 1 1 2 1 0 0 0 0 2 2 0 0 1 0 1 0 1 0 0 2 0 1 2 0 0 2 2 2 2 0 0 0 0 0 0 2 0 2 2 0 1 2 2 0 0 0 2 0 0 2 2 0 0 0 0 1 0 1 0 0 0 2 1 0 2 0 0 2 2 2 0 1 0 2 1 0 0 1 0 1 1 0 1 0 1 0 2 1 0 0 0 1 0 2 1 0 0 1 0 2 0 0 0 0 2 0 1 0 0 0 0 1 0 0 0 1 0 0 0 0 2 0 2 1 0 0 2 0 0 0 1 2 0 0 0 0 2 0 0 0 0 0 2 1 0 0 2 0 0 2 2 0 0 0 0 2 1 0 0 0 2 1 0 0 1 1 1 2 0 0 0 0 2 0 2 0 0 0 0 0 0 0 0 2 0 0 0 0 0 2 1 0 0 1 0 0 1 0 0 1 1 0 0 1 0 1 0 2 0 1 2 1 2 1 0 0 0 2 2 1 0 2 0 0 0 0 0 2 1 1 0 0 2 0 2 2 2 2 2 0 0 0 0 0 0 1 0 2 0 0 0 0 0 0 0 0 0 2 1 0 1 0 0 2 0 0 2 1 2 2 0 2 2 0 2 0 1 1 0 0 0 2 0 1 0 2 0 2 2 1 0 1 0 0 0 0 0 0 2 0 0 0 0 0 0 0 1 2 2 0 2 0 0 0 1 0 0 1 2 0 1 0 0 0 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0 0 0 2 2 1 2 0 0 1 0 2 2 0 0 0 1 0 2 1 0 0 0 1 0 0 1 1 1 2 0 2 0 2 1 1 2 1 1 1 0 0 0 0 2 0 0 0 0 0 0 1 0 1 0 0 0 2 0 1 0 2 2 0 0 2 0 0 0 0 2 0 1 0 1 2 1 1 1 0 0 0</ItemsUses>
+    </Instances>
+    <MissingValues>
+        <InstancesNumber>1461</InstancesNumber>
+        <VariablesNumber>51</VariablesNumber>
+        <ScrubbingMethod>Unuse</ScrubbingMethod>
+        <MissingValuesNumber>0</MissingValuesNumber>
+    </MissingValues>
+</DataSet>
